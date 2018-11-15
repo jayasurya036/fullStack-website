@@ -1,0 +1,28 @@
+
+
+DOM STRUCTURE TREE
+
+
+BODY-P
+	WRAPPER-C1
+		HEADER-C2-1
+			headerAndNav-C3-1
+				heading-C4
+				navigator-C4
+					navigatorChild-C5
+					navigatorChild-C5
+		mainBody-C2-2
+			sideBar
+			mainBar
+				post
+					data
+
+						dataImg
+						postHeading
+						postContent
+						userOpenion
+							reaction
+							reaction
+							reaction
+							reaction
+		FOOTER
