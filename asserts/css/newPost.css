@@ -1,0 +1,17 @@
+.newPostForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+   border:1px dashed black;
+    align-items: flex-end;
+    min-width:80%;
+}
+
+@media  screen and (max-width:800px)
+ {
+    
+
+    
+       
+}

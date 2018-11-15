@@ -1,0 +1,18 @@
+.selectedPost
+{
+    min-height:300px;
+    width:100%;
+    border-right:5px solid gray;
+    border-left:5px solid gray;
+    background-color:#d9d9d9;
+    border-radius: 20px;
+    word-break: break-all;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+
+}
